@@ -43,7 +43,19 @@ npm install swagger-ui-express swagger-jsdoc
 💬 swagger-ui-express & swagger-jsdoc - swagger-jsdoc focuses on generating the documentation from your code comments, swagger-ui-express is used to display that documentation in a user-friendly interface
 
 
-Git Repository
+Git Repository Setup
+
+Url - https://github.com/Sureshkumar041/ChatApp.git
+
+Main branch - Master
+
+Initial Commit After created Repository
+
+1. git remote add origin url
+2. git add .
+3. git commit -m "message"
+4. git push origin branch_name
+
 
 git init
 git add README.md
@@ -51,3 +63,11 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Sureshkumar041/ChatApp.git
 git push -u origin main
+
+Git Command 💡
+
+git branch branch_name
+git checkout branch_name
+git pull origin branch_name
+
+👨🏽‍💻 Ennoda Branch Name - suresh
